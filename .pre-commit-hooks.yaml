@@ -6,5 +6,5 @@
     'types': [markdown]
     args: []
     require_serial: false
-    additional_dependencies: ["markdown-spellcheck@0.5.0"]
+    additional_dependencies: ["markdown-spellcheck@0.6.0"]
     minimum_pre_commit_version: '0'
